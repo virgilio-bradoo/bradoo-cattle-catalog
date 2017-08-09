@@ -1,5 +1,5 @@
 odoo:
-  image: odoo
+  image: virgiliosantos/odoo-enterprise
   ports:
     - "8069:8069"
   links:
