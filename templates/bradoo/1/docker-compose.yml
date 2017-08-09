@@ -1,0 +1,11 @@
+odoo:
+  image: virgiliosantos/odoo-enterprise
+  ports:
+    - "8069:8069"
+  links:
+    - db
+db:
+  image: akretion/voodoo-postgresql
+  environment:
+    - POSTGRES_USER=odoo
+    - POSTGRES_PASSWORD=odoo
