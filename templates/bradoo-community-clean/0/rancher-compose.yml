@@ -1,0 +1,6 @@
+.catalog:
+  name: Bradoo Odoo Community Clean
+  version: 0.1-bradoo 
+  description: Simple Odoo Community with no Localization addons
+  uuid: 0.1-bradoo
+  questions: 

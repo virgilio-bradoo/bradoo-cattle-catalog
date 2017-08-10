@@ -1,5 +1,5 @@
 odoo:
-  image: virgiliosantos/bradoo-odoo-community
+  image: virgiliosantos/bradoo-odoo-community-clean
   ports:
     - "8069:8069"
   links:
