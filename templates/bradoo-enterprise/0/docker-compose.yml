@@ -1,0 +1,13 @@
+services:
+    odoo:
+        image: virgiliosantos/bradoo-odoo-enterprise
+        ports:
+            - "8069:8069"
+        links:
+            - db
+    db:
+      image: postgres
+      environment:
+        - POSTGRES_USER=odoo
+        - POSTGRES_PASSWORD=odoo
+version: '2'

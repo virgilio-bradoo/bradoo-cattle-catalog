@@ -1,0 +1,8 @@
+name: Bradoo test
+description: |
+        Description of the Catalog Entry
+version: 0.0.1
+category: Category 
+maintainer: The maintainer
+license: MIT
+projectURL: https://github.com/virgilio-bradoo/rancher-cattle-test

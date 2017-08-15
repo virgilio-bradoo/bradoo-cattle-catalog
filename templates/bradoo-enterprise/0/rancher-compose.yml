@@ -1,6 +1,6 @@
 .catalog:
   name: "Bradoo Odoo" 
-  version: 0.0.2-bradoo
+  version: 0.0.3-bradoo
   description: "First test of an odoo catalog template by Bradoo Tech"
   uuid: bradoo-0
   questions: 

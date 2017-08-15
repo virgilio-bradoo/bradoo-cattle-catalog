@@ -1,0 +1,8 @@
+name: Bradoo Odoo Community Clean 
+description: |
+        Simple Odoo Community with no Localization addons 
+version: 0.1-bradoo
+category: Bradoo Odoo
+maintainer: Bradoo Tech (virgilio.santos@bradootech.com)
+license: 
+projectURL: https://github.com/virgilio-bradoo/rancher-cattle-test
