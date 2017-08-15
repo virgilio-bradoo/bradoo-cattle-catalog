@@ -1,7 +1,7 @@
 .catalog:
-  name: "Bradoo Odoo" 
+  name: "Bradoo Odoo Enterprise (buildout)" 
   version: 0.0.3-bradoo
-  description: "First test of an odoo catalog template by Bradoo Tech"
+  description: "Bradoo Odoo full install with enterprise modules, buildout based"
   uuid: bradoo-0
   questions: 
 

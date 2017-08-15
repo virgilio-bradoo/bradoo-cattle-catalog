@@ -1,6 +1,6 @@
-name: Bradoo Odoo Community Clean 
+name: Bradoo Odoo Community 
 description: |
-        Simple Odoo Community with no Localization addons 
+        Simple Odoo Community with Localization addons, and buildout based 
 version: 0.1-bradoo
 category: Bradoo Odoo
 maintainer: Bradoo Tech (virgilio.santos@bradootech.com)

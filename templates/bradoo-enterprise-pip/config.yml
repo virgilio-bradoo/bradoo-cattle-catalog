@@ -1,8 +1,8 @@
-name: Bradoo test
+name: Bradoo Enterprise Ready (pip)
 description: |
-        Description of the Catalog Entry
+        Bradoo Odoo full installed with enterprise addons
 version: 0.0.1
-category: Category 
-maintainer: The maintainer
+category: Bradoo Odoo Enterprise 
+maintainer: Virgilio Santos <virgilio.santos@bradootech.com>
 license: MIT
 projectURL: https://github.com/virgilio-bradoo/rancher-cattle-test

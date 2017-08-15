@@ -1,6 +1,6 @@
 services:
     odoo:
-        image: virgiliosantos/bradoo-odoo-enterprise-pip
+        image: virgiliosantos/bradoo-odoo-enterprise
         ports:
             - "8069:8069"
         links:
